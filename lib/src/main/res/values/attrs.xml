@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomWidget">
+        <attr name="base_color" format="reference"/>
+        <attr name="value_color" format="reference"/>
+        <attr name="stroke_color" format="reference"/>
+    </declare-styleable>
+</resources>
