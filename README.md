@@ -22,7 +22,7 @@ Step 1. Add the JitPack repository to your root build.gradle
 Step 2. Add the dependency
   
  	dependencies {
-	        compile 'com.github.MobileDews:Horizontal_square_seekbar:-SNAPSHOT'
+	         compile 'com.github.MobileDews:Horizontal_square_seekbar:1.0.1'
 	}
   
 USAGE
